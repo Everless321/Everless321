@@ -92,14 +92,14 @@ class Everless:
 </td>
 <td width="50%">
 
-### 🔄 Kiro.rs
-**Anthropic API 代理服务**
+### 🐛 BugListener
+**Bug 监控桌面工具**
 
-`Rust` `Actix-Web` `OAuth`
+`Electron` `Vue` `TypeScript`
 
-- Claude API 完整兼容
-- SSE 流式响应
-- 多凭据自动故障转移
+- 实时 Bug 监控与通知
+- 跨平台桌面应用
+- 可视化数据展示
 
 </td>
 </tr>
@@ -118,14 +118,14 @@ class Everless:
 </td>
 <td width="50%">
 
-### ⚒️ ModelForge
-**AI 模型评测系统**
+### 📝 AutoLog
+**自动化日志收集工具**
 
-`React` `TypeScript` `Fastify` `SQLite`
+`TypeScript` `Midscene` `Automation`
 
-- 多 Provider 支持
-- 自动化评判 + 人工复核
-- 完整数据分析
+- Web 自动化日志采集
+- 智能数据解析
+- 定时任务调度
 
 </td>
 </tr>

@@ -38,7 +38,7 @@ class Everless:
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Everless321&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Everless321&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Everless321&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ class Everless:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Everless321&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Everless321&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C,-B"/>
 </p>
 
 ## 🔥 Featured Projects

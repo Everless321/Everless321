@@ -17,11 +17,12 @@ class Everless:
 
     def skills(self):
         return {
-            "languages": ["Java", "Python", "Swift", "PHP", "JavaScript", "TypeScript"],
-            "backend": ["Spring Boot", "Spring Security", "JWT", "FastAPI"],
+            "languages": ["Java", "Python", "Rust", "Swift", "TypeScript", "PHP"],
+            "backend": ["Spring Boot", "Spring Cloud", "FastAPI", "Actix-Web"],
+            "frontend": ["React", "Next.js", "Vue", "Electron"],
             "mobile": ["SwiftUI", "macOS Development"],
-            "devops": ["Docker", "Shell", "Linux"],
-            "special": ["Telegram Bot", "Web Scraping", "Automation"]
+            "devops": ["Docker", "Microservices", "Linux"],
+            "special": ["Telegram Bot", "Web Scraping", "Quantitative Trading", "LLM Integration"]
         }
 
     def current_focus(self):
@@ -31,7 +32,7 @@ class Everless:
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,swift,php,js,ts,spring,docker,linux,git&theme=dark&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=java,python,rust,swift,ts,react,nextjs,vue,spring,docker&theme=dark&perline=10"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -45,31 +46,116 @@ class Everless:
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everless321&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🔥 Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Everless321&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&rank=-C,-B"/>
-</p>
+> 以下为本地开发项目，部分未开源
 
-## 🔥 Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/Everless321/telebot-invitecode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Everless321&repo=telebot-invitecode&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/Everless321/Dy-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Everless321&repo=Dy-tools&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
+### 🎬 DouyinTool
+**抖音数据采集与管理工具集**
 
-<p align="center">
-  <a href="https://github.com/Everless321/NotifyHandler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Everless321&repo=NotifyHandler&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/Everless321/Security-jwt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Everless321&repo=Security-jwt&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
+`Python` `FastAPI` `Next.js` `SwiftUI`
+
+- 基于 f2 框架的视频下载
+- RESTful API 后端服务
+- 视频浏览前端 + macOS 客户端
+
+</td>
+<td width="50%">
+
+### 🕷️ Smart Crawler
+**智能网站爬虫系统**
+
+`TypeScript` `LLM` `Workflow`
+
+- 工作流可视化配置
+- 可视化 XPath 选择器生成
+- LLM 智能数据提取
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Polymarket Bot
+**高性能量化交易机器人**
+
+`Rust` `WebSocket` `Tokio`
+
+- 双腿套利策略
+- 异步高并发架构
+- 实时行情推送
+
+</td>
+<td width="50%">
+
+### 🔄 Kiro.rs
+**Anthropic API 代理服务**
+
+`Rust` `Actix-Web` `OAuth`
+
+- Claude API 完整兼容
+- SSE 流式响应
+- 多凭据自动故障转移
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔔 NotifyHandler
+**macOS 菜单栏通知工具**
+
+`Swift` `SwiftUI` `Webhook`
+
+- 本地 HTTP 服务器
+- 原生系统通知
+- 通知历史持久化
+
+</td>
+<td width="50%">
+
+### ⚒️ ModelForge
+**AI 模型评测系统**
+
+`React` `TypeScript` `Fastify` `SQLite`
+
+- 多 Provider 支持
+- 自动化评判 + 人工复核
+- 完整数据分析
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Low Code Cloud
+**微服务低代码平台**
+
+`Spring Cloud` `Java` `Vue`
+
+- 基于 RuoYi-Cloud-Plus
+- 通用权限管理
+- 工作流引擎
+
+</td>
+<td width="50%">
+
+### 🤖 Telegram Bot
+**邀请码发放机器人**
+
+`Python` `Telegram API`
+
+- 自动发放邀请码
+- 多群组管理
+- ⭐ 18 Stars
+
+</td>
+</tr>
+</table>
 
 ## 📈 Activity Graph
 

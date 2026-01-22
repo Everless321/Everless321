@@ -132,14 +132,15 @@ class Everless:
 <tr>
 <td width="50%">
 
-### ☁️ Low Code Cloud
-**微服务低代码平台**
+### 🏗️ 施工管理系统
+**智慧工地数字化平台**
 
-`Spring Cloud` `Java` `Vue`
+`Spring Boot` `Vue` `UniApp`
 
-- 基于 RuoYi-Cloud-Plus
-- 通用权限管理
-- 工作流引擎
+- 智慧梁场自动排程与调度
+- 物资管理与原材料分流
+- 3D 可视化施工进度监控
+- 移动端 APP 现场协同
 
 </td>
 <td width="50%">

@@ -79,19 +79,6 @@ class Everless:
 </td>
 <td width="50%">
 
-### 🐛 BugListener
-**Bug 监控桌面工具**
-
-`Electron` `Vue` `TypeScript`
-
-- 实时 Bug 监控与通知
-- 跨平台桌面应用
-- 可视化数据展示
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🔔 NotifyHandler
 **macOS 菜单栏通知工具**

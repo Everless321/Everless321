@@ -66,19 +66,6 @@ class Everless:
 </td>
 <td width="50%">
 
-### 🕷️ Smart Crawler
-**智能网站爬虫系统**
-
-`TypeScript` `LLM` `Workflow`
-
-- 工作流可视化配置
-- 可视化 XPath 选择器生成
-- LLM 智能数据提取
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 📈 Polymarket Bot
 **高性能量化交易机器人**
@@ -132,18 +119,6 @@ class Everless:
 <tr>
 <td width="50%">
 
-### 🏗️ 施工管理系统
-**智慧工地数字化平台**
-
-`Spring Boot` `Vue` `UniApp`
-
-- 智慧梁场自动排程与调度
-- 物资管理与原材料分流
-- 3D 可视化施工进度监控
-- 移动端 APP 现场协同
-
-</td>
-<td width="50%">
 
 ### 🤖 Telegram Bot
 **邀请码发放机器人**
